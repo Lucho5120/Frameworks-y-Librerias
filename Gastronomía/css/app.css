@@ -1,0 +1,61 @@
+/*clase del body*/
+.gastronomia {
+	background-position: center center;
+	background-attachment: scroll;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	width: 100%;
+ 	height: 100%;
+}
+body {
+  background: url(../img/1234.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+/*clase del contenedor*/
+.contenedor {
+	background-color: rgba(138, 138, 138, 0.3);
+	opacity: 1.85;
+}
+
+/*clase del header*/
+#encabezado {
+	color: rgb(10, 24, 218);
+	border-right: solid 1px white;
+}
+
+.nombre {
+	text-align: left;
+}
+
+.viñeta {
+	text-align: right;
+}
+
+/*clase para el contenedor*/
+.secciones {
+	border-top: solid 1px white;
+}
+
+/*clase de busqueda*/
+#busqueda {
+	background-color: rgb(168, 204, 232);	
+}
+
+/*clase de contenido*/
+.contenido {
+	background-color: rgb(240, 173, 219);
+}
+
+.comentarios {
+	border-top: solid 1px white;
+}
+
+.usuario {
+	background-color: rgb(240, 173, 219);
+}
+
